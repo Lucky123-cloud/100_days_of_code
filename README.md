@@ -1,0 +1,1 @@
+This is the 100 days of code challenge that will make us to get into the habit of coding daily, and this will make a difference in our disciplene and in our way of doing things. We do not want to make excuses we do it regardless. We will be doing Python, C and javascript. This will be learning by building projects.
