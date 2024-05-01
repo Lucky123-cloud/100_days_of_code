@@ -27,6 +27,7 @@ console.log(longestWord(sentence));
 //but yet only the first one is taken, that is because that is how the algorithm works to pick the fisrt one appeared
 
 //if we want to make it return all the longest words with the same number of characters we will twick our code like this below:
+//we can store the longest words in an array and then we can return that;
 
 
 function longestWords(sentence) {
